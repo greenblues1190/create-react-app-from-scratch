@@ -1,0 +1,8 @@
+# modules
+node_modules/
+
+# dist
+dist/
+
+# misc
+.DS_Store
